@@ -17,7 +17,7 @@ Android Developer & Flutter Enthusiast | Linux Lover | Open Source Advocate</p>
 
 <img src="images/tech_stack.png">
 
-<img src="https://skillicons.dev/icons?i=java,dart,python,bash,mysql,gradle,flutter,git,github,firebase,androidstudio,vscode,vim,idea,ps,linux" />
+<img src="https://skillicons.dev/icons?i=java,dart,python,bash,mysql,gradle,flutter,git,github,firebase,androidstudio,vscode,vim,idea,ps,linux ,debian,ubuntu" />
 
 <!--Tech stack: end-->
 
