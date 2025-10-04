@@ -1,5 +1,4 @@
 <div align="center">
-<img src="img/hero_banner.svg">
 
 <!-- uncomment to change banner
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:4CB8C4,100:3CD3AD&height=300&section=header&text=Muhammad%20Faizan&fontSize=90&fontColor=FCFFE7" />
@@ -7,7 +6,7 @@
 
 
 <!--About me: start-->
-<img src="img/hi_there.png">
+<img src="images/hi_there.png">
 
 <p>Hi, I'm Reza ataei 
 Android Developer & Flutter Enthusiast | Linux Lover | Open Source Advocate</p>
@@ -16,7 +15,7 @@ Android Developer & Flutter Enthusiast | Linux Lover | Open Source Advocate</p>
 
 <!--Tech stack: start-->
 
-<img src="img/tech_stack.png">
+<img src="images/tech_stack.png">
 
 <img src="https://skillicons.dev/icons?i=java,php,dart,python,kotlin,bash,md,html,css,js,mysql,postgres,laravel,vue,pinia,gradle,flutter,tailwind,alpinejs,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux&perline=15" />
 
